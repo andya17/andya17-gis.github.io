@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a website that I am using as a portfolio for Open GIScience and Conservation Planning at Middlebury.
 twitter_username: username
 github_username: andya17
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
