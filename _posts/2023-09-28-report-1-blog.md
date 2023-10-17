@@ -1,5 +1,5 @@
 ---
-title: "Reproducible and Open GIScience"
+title: "Report 1: Replication Study of Chakraborty (2021)"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -14,3 +14,9 @@ From doing a reproduction study, I have learned that integrating the thoughts of
 As stated by Emily in the discussion section, there are further opportunities to improve the study; notably, researchers could choose a more appropriate model for themes of "spatial dependence". I look forward to learning more about said models in the future.
 
 With respect to replication studies, researchers could use COVID-19 incidence from a different time period in the United States. Researchers could also use data from another country to investigate the relationship between the variables there.
+
+Here is a link to the full repository for the reproduction study: https://github.com/andya17/RPr-Chakraborty-2021. 
+
+Here is a link to the report: https://andya17.github.io/RPr-Chakraborty-2021/. 
+
+Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI: 10.1016/j.dhjo.2020.101007.
