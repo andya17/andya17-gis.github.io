@@ -9,4 +9,4 @@ tags:
   - Kang et al.
 ---
 
-I have not yet finished debugging the problems I have experienced with the Kang et al. (2020) reanalysis. I will update this post once I have done so.
+I have not yet finished debugging the problems I have experienced with the Kang et al. (2020) reanalysis. I will update this post once I have done so (likely on Friday, November 17).
