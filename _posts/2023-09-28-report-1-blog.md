@@ -5,8 +5,8 @@ categories:
   - Blog
 tags:
   - GIS
-  - Reproduction study
-  - Chakraborty
+  - Reanalysis
+  - Chakraborty et al.
 ---
 
 From doing a reproduction study, I have learned that integrating the thoughts of multiple authors can be a complicated process. I also learned about parameters in the kableExtra and the tmap R packages. The reproduction most clearly differs in the discussion section and the conclusion section, the latter of which did not exist in the previous version of the reproduction study. I would hope that these changes, along with small changes to three specific figures, are improvements to the study. In particular, I believe that forming one discussion section should improve the readability of the report and decrease time in which a reader moves from one discussion section to another to discern differences in content.

@@ -5,8 +5,9 @@ categories:
   - Blog
 tags:
   - GIS
-  - Reproduction study
+  - Reanalysis
   - Spielman et al.
+  - Social vulnerability
 ---
 
 This reanalysis pertains to a paper by Spielman et al. (2020) which explores the consistency of the social vulnerability index (SoVI) over geographic space. For this assignment, the GEOG0323 class analyzed a particular set of static changes made to the workflow by Professor Joseph Holler, namely whether reweighting the principal components in principal component analysis (PCA) by percentage of variance explained would have an impact on the results and visualizations in the original study. I aimed to discuss whether this affected internal consistency and construct validity based on how certain figures and tables changed.
