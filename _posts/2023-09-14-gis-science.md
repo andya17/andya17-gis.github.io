@@ -6,6 +6,7 @@ categories:
 tags:
   - GIS
   - Science
+  - GEOG 0323
 ---
 
 This post is the first of several which responds to prompts posted on the website for GEOG 0323: Open GIScience. The prompt for this post is: 

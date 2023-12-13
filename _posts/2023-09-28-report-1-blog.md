@@ -16,8 +16,8 @@ The changes I made to the study are as follows:
 - I fixed the position of a data table which was continuing off the page.
 - I altered the arguements of one instance of a mapping function with the tmap package in order to show the entirety of the color ramp.
 - I changed the transparency of points on a scatterplot to more clearly show outlier values.
-- I added a paragraph to the discussion based on the above point.
-- I integrated information from two separate discussion sections (by Professor Holler and his colleague Emily, respectively) into one cohesive section.
+- I added a paragraph to the end discussion based on the above point.
+- I integrated information from two separate discussion sections (by Professor Holler and his colleague Emily, respectively) into one cohesive section. Only the last paragraph of the discussion was written by me.
 - I added a conclusion section which provides a judgement of whether the reproduction was a success.
 
 From completing this assignment, I have learned that integrating the thoughts of multiple authors can be a complicated process. I also learned about parameters in the kableExtra and the tmap R packages. The reproduction most clearly differs in the discussion section and the conclusion section, the latter of which did not exist in the previous version of the reproduction study. I would hope that these changes, along with small changes to three specific figures, are improvements to the study. In particular, I believe that forming one discussion section should improve the readability of the report and decrease time in which a reader moves from one discussion section to another to discern differences in content.
